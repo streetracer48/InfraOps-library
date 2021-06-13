@@ -2,7 +2,7 @@
 ## Linux basic Commands ⭐️
 
 
-
+### `" ls /home": " check how many user currently os"`,
 ### `"pwd" : "current directory check"`,
 ### `"mkdir": "create folder"`,
 ### `"touch": "create file"`,
@@ -24,3 +24,19 @@
 ### `"CTR + Shift + v": "to paste command on cmd"`,
 ### `"ls -a": "to see all the files according hidden filles"`,
 ### `"cat ": "to read the file"`,
+
+Information about OS
+
+### `" cat /etc/os-release ": "information about os distribution system"`,
+### `" lsmem ": "memory information"`,
+
+
+to login as user
+
+### `" su - karim ": "it will logged you to this user"`,
+
+
+
+
+
+
