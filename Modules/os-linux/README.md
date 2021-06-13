@@ -18,5 +18,9 @@
 ### `"mv  old-file.py move-file.py": "move to and create new file"`,
 ### `"mv  old-file.py move-file.py": "move to and create new file"`,
 ### `"ls -R Documents": "For example to see all details  in the folder Documents"`,
-### `"history": "to see all the last command"`,
+### `"history": "to see all the last commands"`,
+### `"history 2": "to see last latest 2 command"`
 ### `"CTR + r": "search input from history"`,
+### `"CTR + Shift + v": "to paste command on cmd"`,
+### `"ls -a": "to see all the files according hidden filles"`,
+### `"cat ": "to read the file"`,
