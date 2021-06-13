@@ -12,3 +12,9 @@
 ### `"cd  usr/local/bin": "there is two bin, this coomand for user local bin"`,
 
 ### `"mv web-app java-app": "example of rename the folder to java-app"`,
+
+### `"cp -r web-app new-app": "example of copy data one folder to another folder"`,
+### `"cp  old-file.py new-file.py": "copying and create new file"`,
+### `"mv  old-file.py move-file.py": "move to and create new file"`,
+### `"mv  old-file.py move-file.py": "move to and create new file"`,
+### `"ls -R Documents": "For example to see all details  in the folder Documents"`,
