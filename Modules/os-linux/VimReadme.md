@@ -18,10 +18,8 @@
 ### `" 0 ": "jump to beginning  of the line"`,
 ### `" dollarSign ": "jump to the end of the line"`,
 
+### `" 12G ": "jump to the specific line , for example 12 line"`,
 
-to login as user
-
-### `" su - karim ": "it will logged you to this user"`,
 
 
 
